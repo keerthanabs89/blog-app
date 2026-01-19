@@ -1,0 +1,33 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "It Works!",
+      "category": [
+        "TEST"
+      ],
+      "description": "The database is finally connected!",
+      "date": "2026-01-01"
+    },
+    {
+      "id": "1768841753871",
+      "title": "hello",
+      "description": "hii\n",
+      "category": [
+        "NEW"
+      ],
+      "date": "2026-01-19T16:55:53.871Z"
+    },
+    {
+      "id": "1768841978562",
+      "title": "hello",
+      "description": "???",
+      "category": [
+        "Tech",
+        "New"
+      ],
+      "date": "2026-01-19T16:59:38.562Z",
+      "coverImage": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg"
+    }
+  ]
+}

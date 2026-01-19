@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": ["FINANCE", "TECH"],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "Full blog content goes here..."
+    },
+    {
+      "id": "2",
+      "title": "React Query Guide",
+      "category": ["CODING"],
+      "description": "How to handle server state effectively",
+      "date": "2026-01-12T10:00:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg",
+      "content": "TanStack Query is powerful..."
+    }
+  ]
+}
